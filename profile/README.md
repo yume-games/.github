@@ -7,3 +7,30 @@
   and all there ever will be to know and understand.<br />
   - Albert Einstein
 </p>
+<br />
+<h2 align="center">The Figments team</h2>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/thethunderingmarmot">Tommaso De Tommaso</a>
+      </td>
+      <td>
+        Director, Writer, Composer, Developer
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/E-sc-D">Edoardo Scorza</a>
+      </td>
+      <td>
+        Artist, Writer, Developer
+      </td>
+    </tr>
+  </table>
+</p>
+<br />
+<h2 align="center">Useful links</h2>
+<p align="center">
+  <a href="https://soundcloud.com/thom-deth/sets/figments-ost">🎶 Figments soundtracks</a>
+</p>
