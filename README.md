@@ -1,1 +1,1 @@
-# .github
+You shouldn't be reading this!
