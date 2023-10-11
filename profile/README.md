@@ -27,6 +27,14 @@
         Artist, Writer, Developer
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/R3aperCitizen">Matteo Giorgini</a>
+      </td>
+      <td>
+        Level Designer, Artist, Writer, Developer
+      </td>
+    </tr>
   </table>
 </p>
 <br />
