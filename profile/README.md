@@ -40,5 +40,5 @@
 <br />
 <h2 align="center">Useful links</h2>
 <p align="center">
-  <a href="https://soundcloud.com/thom-deth/sets/figments-ost">🎶 Figments soundtracks</a>
+  <a href="https://soundcloud.com/thomdeth/sets/figments-ost">🎶 Figments soundtracks</a>
 </p>
